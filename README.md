@@ -1,2 +1,2 @@
-# DadGPT-py
-Local Dockerized DadGPT written in Python.
+# DadGPT-java
+Local Dockerized DadGPT written in Java.
